@@ -4,7 +4,7 @@ OAuth for Apps: Samples for Windows
 This repository contains samples for doing OAuth 2.0 to Google for Windows apps,
 including universal apps, traditional desktop apps, and CLI tools.
 
-The console version has been re-writen to a more typical c# style/form.
+The console version has been re-written to a more typical c# style/form.
 
 Introduction
 ------------
